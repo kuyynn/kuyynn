@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Canva">
+  <defs>
+    <linearGradient id="canva" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00C4CC"/>
+      <stop offset="1" stop-color="#7D2AE8"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="10" fill="url(#canva)"/>
+  <path d="M31.07 16.93 A10 10 0 1 0 31.07 31.07" fill="none" stroke="#FFFFFF" stroke-width="5.5" stroke-linecap="round"/>
+</svg>

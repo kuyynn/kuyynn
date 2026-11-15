@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:070A1A,35:0B1026,65:312E81,100:7C3AED&text=Indah%20Tasya%20Kurina&fontColor=E9E6FF&fontSize=54&fontAlignY=36&desc=Informatics%20Engineering%20Student%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Machine%20Learning%20Enthusiast&descAlignY=56&descSize=16&animation=fadeIn" width="100%" alt="Indah Tasya Kurina — Informatics Engineering Student, Software Developer, Machine Learning Enthusiast" />
 
 <a href="https://github.com/kuyynn">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=A78BFA&center=true&vCenter=true&width=840&lines=Building+web+and+mobile+products+end+to+end;Exploring+Explainable+AI+and+feature+selection;Writing+my+thesis+one+experiment+at+a+time;Designing+interfaces+with+a+cosmic+touch" alt="Typing animation describing my work" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=A78BFA&center=true&vCenter=true&width=840&lines=Full-stack+builds+with+Laravel%2C+Flutter%2C+and+clean+interfaces;Machine+learning+that+explains+itself%2C+not+just+predicts;Code+you+can+read%2C+run%2C+and+build+on;Turning+requirements+into+shipped%2C+working+products" alt="Typing animation describing my work" />
 </a>
 
 <img src="https://img.shields.io/github/followers/kuyynn?style=flat-square&labelColor=0B1026&color=7C3AED&logo=github&logoColor=E9E6FF&label=FOLLOWERS" alt="GitHub followers" />
@@ -53,30 +53,16 @@ Minat utama saya mencakup software engineering, web dan mobile development, mach
 The tools I reach for most, grouped by where they sit in a project. No invented proficiency levels — just the stack I actually work with.
 
 **Languages**<br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=php,python,dart,js,html,css&theme=dark&perline=9" alt="PHP, Python, Dart, JavaScript, HTML, CSS" />
 
 **Web & App Frameworks**<br/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://skillicons.dev/icons?i=laravel,flutter,bootstrap&theme=dark&perline=9" alt="Laravel, Flutter, Bootstrap" />
 
 **Data & Backend**<br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb&theme=dark&perline=9" alt="MySQL, Firebase, MongoDB" />
 
 **Workflow & Design**<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark&perline=9" alt="Git, GitHub, VS Code, Postman, Figma" /> <img src="assets/canva.svg" width="48" height="48" alt="Canva" />
 
 ## Featured Projects / Mission Archives
 
