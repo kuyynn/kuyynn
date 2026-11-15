@@ -1,173 +1,183 @@
+ <div align="center">
 
-<!-- ========================================= -->
-<!--             KUYNN PROFILE README           -->
-<!-- ========================================= -->
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:17152B,50:62518B,100:C4A7E7&height=210&section=header&text=Indah%20Tasya%20Kurina&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Informatics%20Engineering%20Student%20%7C%20Developer&descSize=14&descAlignY=58&animation=fadeIn" />
 
-<div align="center">
+<!-- Typing Animation -->
+<a href="https://github.com/kuyynn">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=C4A7E7&center=true&vCenter=true&width=550&lines=Welcome+to+my+little+corner+of+GitHub+%E2%9C%A8;Building+things+with+code+%26+curiosity;Software+Development+%7C+Machine+Learning;Learning%2C+creating%2C+and+growing+%F0%9F%8C%B1" />
+</a>
 
-# Hi there, I'm Indah Tasya Kurina! 👋
+<br/>
 
-### `Informatics Engineering Student | Software Developer`
-
-**Building solutions through technology, creativity, and continuous learning.**
-
-[![GitHub followers](https://img.shields.io/github/followers/kuyynn?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/kuyynn)
-[![Profile Views](https://komarev.com/ghpvc/?username=kuyynn&style=for-the-badge&color=blueviolet)](https://github.com/kuyynn)
-
-📍 Sidoarjo, East Java, Indonesia 🇮🇩
+<img src="https://komarev.com/ghpvc/?username=kuyynn&label=PROFILE+VIEWS&color=9B83C7&style=flat-square" />
+<img src="https://img.shields.io/github/followers/kuyynn?label=FOLLOWERS&style=flat-square&color=B9A0E5&logo=github" />
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me | Tentang Saya
+## ୨୧ About Me
 
-**EN 🇬🇧**
+Hi! I'm **Indah**, an Informatics Engineering student at Universitas Airlangga, Indonesia.
 
-I'm an Informatics Engineering student at Universitas Airlangga with an interest in software development, machine learning, data science, and UI/UX design.
+I'm interested in building useful digital products, exploring intelligent systems, and creating interfaces that people enjoy using.
 
-I enjoy developing applications, exploring emerging technologies, and transforming ideas into practical solutions.
+Currently exploring the intersection of software engineering, machine learning, and human-centered design.
 
-**ID 🇮🇩**
+**A little more about me:**
 
-Saya merupakan mahasiswa D4 Teknik Informatika Universitas Airlangga yang tertarik pada pengembangan perangkat lunak, machine learning, data science, dan desain UI/UX.
+- 🎓 D4 Informatics Engineering — Universitas Airlangga
+- 💻 Interested in Web & Mobile Development
+- 🧠 Exploring Machine Learning and Explainable AI
+- 🎨 Enjoy UI/UX design and visual creativity
+- 🔍 Currently working on my undergraduate thesis
+- 🌱 Always learning something new
 
-Saya senang membangun aplikasi, mempelajari teknologi baru, dan mengembangkan solusi digital untuk permasalahan nyata.
+<details>
+<summary>🇮🇩 Baca dalam Bahasa Indonesia</summary>
 
-- 🎓 Education: D4 Informatics Engineering — Universitas Airlangga
-- 💻 Interests: Software Engineering, Web Development & Machine Learning
-- 🧠 Currently exploring: Explainable AI, KNN & Feature Selection
-- 🎨 Design tools: Figma & Canva
-- 🌱 Always learning, building, and improving.
-- 🤝 Open to collaboration, internships, and new opportunities.
+Saya adalah mahasiswa D4 Teknik Informatika Universitas Airlangga yang tertarik pada pengembangan aplikasi, machine learning, dan desain UI/UX.
+
+Saya senang mengeksplorasi teknologi, membangun proyek digital, serta mengembangkan solusi yang bermanfaat dan mudah digunakan.
+
+Saat ini saya sedang mendalami pengembangan perangkat lunak dan Explainable Machine Learning melalui penelitian tugas akhir.
+
+</details>
 
 ---
 
-## 🚀 Tech Stack & Tools
+## ୨୧ Tech Stack
 
-**Programming Languages**
+**Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,python,dart,js,html,css" />
+<img src="https://skillicons.dev/icons?i=php,python,dart,js,html,css&theme=dark" />
 </p>
 
 **Frameworks & Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,flutter,bootstrap" />
+<img src="https://skillicons.dev/icons?i=laravel,flutter,bootstrap&theme=dark" />
 </p>
 
-**Database & Backend**
+**Database & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,git,github,vscode,postman&theme=dark" />
 </p>
 
-**Tools & Design**
+**Design**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,canva" />
+<img src="https://skillicons.dev/icons?i=figma,canva&theme=dark" />
 </p>
 
 ---
 
-## 💼 Featured Projects | Proyek Unggulan
+## ୨୧ Selected Projects
 
-Here are some projects I've worked on during my academic journey.
+A few things I've built and explored along the way.
 
-### 01. Hypertension Risk Prediction System
-**Web Development | Machine Learning | Explainable AI**
+### ✦ Hypertension Risk Prediction System
+`Machine Learning` `KNN` `SFS` `SHAP` `Web Development`
 
-A web-based system for hypertension risk analysis and prediction using:
+A web-based system for hypertension risk analysis and prediction.
 
 - Wrapper-Based Feature Selection
 - Sequential Forward Selection (SFS)
-- K-Nearest Neighbors (KNN)
-- Explainable Machine Learning (SHAP)
+- K-Nearest Neighbors classification
+- SHAP-based model interpretation
 
-*Academic research project.*
+*Undergraduate thesis project — in development.*
 
-### 02. ChipIn
-**Mobile Development | Flutter | OCR**
+### ✦ ChipIn
+`Flutter` `Dart` `OCR` `Firebase`
 
-A bill-splitting application designed to simplify expense calculations.
+A mobile application designed to make splitting bills easier.
 
-- OCR-based receipt scanning
+- Receipt scanning using OCR
 - Automatic tax and service calculations
 - Bill splitting
 - PDF and Excel export
 - Authentication and Google Sign-In
 
-### 03. GrowFarm
-**Web Development | Laravel**
+### ✦ GrowFarm
+`Laravel` `PHP` `MySQL`
 
 An agricultural information platform featuring:
 
 - Cultivation guides
 - Community features
-- Service recommendations
+- Agricultural service recommendations
 
-### 04. ClassCheck
-**Software Engineering | Project Management**
+### ✦ ClassCheck
+`Software Engineering` `System Analysis`
 
-A student attendance management system developed as part of a software project management course.
+A student attendance management system developed as an academic team project.
 
 - Project Charter
-- Work Breakdown Structure (WBS)
-- Software Requirements Specification (SRS)
+- Work Breakdown Structure
+- Software Requirements Specification
 
-### 05. Room Management System
-**Web Development | Laravel | Docker**
+### ✦ Room Management System
+`Laravel` `MySQL` `Docker`
 
-A room management application developed during an internship/project environment.
+A room management application developed in a practical development environment.
 
-- Room management
-- User roles and permissions
-- Laravel backend
-- Docker-based development environment
+- Room management functionality
+- Role-based access and permissions
+- Backend development with Laravel
+- Docker development environment
 
 ---
 
-## 📊 GitHub Statistics
+## ୨୧ GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kuyynn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuyynn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=kuyynn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4A7E7&text_color=D8D4E8&icon_color=BBA6F7&rank_icon=github" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=kuyynn&theme=tokyonight&hide_border=true" />
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuyynn&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4A7E7&text_color=D8D4E8&langs_count=8" />
+
+<br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=kuyynn&hide_border=true&background=0D1117&ring=BBA6F7&fire=F0ABFC&currStreakLabel=C4A7E7&sideLabels=D8D4E8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B9A" />
 
 </div>
 
 ---
 
-## 🎯 Current Goals | Tujuan Saat Ini
+## ୨୧ Currently
 
-- [x] Explore Web Development
-- [x] Build Mobile Applications
-- [x] Learn Machine Learning
-- [ ] Improve Software Engineering Skills
-- [ ] Develop Explainable AI Applications
-- [ ] Complete Undergraduate Thesis
-- [ ] Gain Professional IT Experience
+| Focus | Status |
+|---|---|
+| Web Development | Exploring & building |
+| Mobile Development | Learning & practicing |
+| Machine Learning | Researching |
+| Explainable AI | Undergraduate thesis |
+| UI/UX Design | Exploring |
 
 ---
 
-## 🤝 Let's Connect!
+## ୨୧ Beyond the Code
 
-I'm always interested in connecting with fellow developers, exchanging ideas, and exploring opportunities.
+I enjoy learning new things, experimenting with ideas, and turning concepts into something tangible.
+
+I'm especially interested in opportunities where technology, problem-solving, and creativity come together.
+
+**Open to:** Collaboration · IT Internship · Junior Developer Opportunities
+
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-kuyynn-181717?style=for-the-badge&logo=github)](https://github.com/kuyynn)
+### Thanks for stopping by! ♡
 
-<!-- Add your LinkedIn and portfolio links here when ready -->
+*Made with curiosity, coffee, and a little bit of code.*
 
-**Thanks for visiting my profile!**
-
-*“Keep learning, keep building, and keep growing.”* 🌱
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17152B,50:62518B,100:C4A7E7&height=100&section=footer" />
 
 </div>
