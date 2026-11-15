@@ -1,265 +1,200 @@
- <div align="center">
+<div align="center">
 
-<!-- COSMIC HERO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,30:101B3A,65:43377A,100:101B3A&text=INDAH%20TASYA%20KURINA&fontSize=40&fontColor=F3EEFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%E2%80%A2%20MACHINE%20LEARNING%20%E2%80%A2%20CREATIVE%20TECH&descSize=12&descColor=C5B8F5&descAlignY=57&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:070A1A,35:0B1026,65:312E81,100:7C3AED&text=Indah%20Tasya%20Kurina&fontColor=E9E6FF&fontSize=54&fontAlignY=36&desc=Informatics%20Engineering%20Student%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Machine%20Learning%20Enthusiast&descAlignY=56&descSize=16&animation=fadeIn" width="100%" alt="Indah Tasya Kurina — Informatics Engineering Student, Software Developer, Machine Learning Enthusiast" />
 
-<br/>
+<a href="https://github.com/kuyynn">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=A78BFA&center=true&vCenter=true&width=840&lines=Building+web+and+mobile+products+end+to+end;Exploring+Explainable+AI+and+feature+selection;Writing+my+thesis+one+experiment+at+a+time;Designing+interfaces+with+a+cosmic+touch" alt="Typing animation describing my work" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=C4B5FD&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+universe+%E2%9C%A6;Informatics+Engineering+Student;Building+digital+experiences+with+code;Exploring+the+world+of+Machine+Learning;Curiosity+is+my+favorite+fuel+%F0%9F%9A%80" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=kuyynn&style=for-the-badge&color=5B4B9A&label=SPACE+VISITORS" />
-<img src="https://img.shields.io/github/followers/kuyynn?style=for-the-badge&color=5B4B9A&label=FOLLOWERS&logo=github" />
+<img src="https://img.shields.io/github/followers/kuyynn?style=flat-square&labelColor=0B1026&color=7C3AED&logo=github&logoColor=E9E6FF&label=FOLLOWERS" alt="GitHub followers" />
+<img src="https://komarev.com/ghpvc/?username=kuyynn&style=flat-square&label=PROFILE+VIEWS&color=7C3AED&labelColor=0B1026" alt="Profile views" />
 
 <br/><br/>
 
-`✦ 01: Profile Overview ✦`
+[About](#about-me) &nbsp;·&nbsp; [Stack](#tech-stack--technology-constellation) &nbsp;·&nbsp; [Projects](#featured-projects--mission-archives) &nbsp;·&nbsp; [Telemetry](#github-telemetry--statistics) &nbsp;·&nbsp; [Journey](#current-orbit--learning-journey) &nbsp;·&nbsp; [Connect](#establish-connection--lets-connect)
 
 </div>
 
-## ☾ A Little About Me
+<img src="assets/starfield.svg" width="100%" alt="" />
 
-> Somewhere in the universe of technology, I'm building my own little world.
+## About Me
 
-I'm **Indah Tasya Kurina**, an Informatics Engineering student at Universitas Airlangga, Indonesia.
+<img src="assets/astronaut.svg" width="180" align="right" alt="Floating astronaut illustration" />
 
-I enjoy exploring the intersection of software development, machine learning, and creative problem-solving. I believe technology is more interesting when it solves meaningful problems and creates better experiences.
+I'm a final-year **D4 Informatics Engineering** student at **Universitas Airlangga**, based in Indonesia. I build software from the data layer up to the pixels — Laravel services, relational schemas, Flutter apps, and the interfaces that tie them together.
 
-- 🎓 Informatics Engineering — Universitas Airlangga
-- 💻 Interested in Web & Mobile Development
-- 🧠 Exploring Machine Learning & Explainable AI
-- 🎨 Interested in UI/UX and digital experiences
-- 🔭 Currently developing my undergraduate thesis
-- 🌱 Always learning, experimenting, and building.
+Most of my attention right now goes to my thesis: a **hypertension risk prediction system** that uses wrapper-based feature selection (Sequential Forward Selection) to trim the input set, K-Nearest Neighbors to classify risk, and **SHAP** to explain why the model predicts what it predicts. It sits at the intersection of what I enjoy most — machine learning, explainable AI, and building tools people can actually read and use.
+
+Outside of that, I work on web and mobile projects, sketch interface concepts in Figma, and keep a running list of small side projects that solve very specific problems.
+
+- **Education** — D4 Teknik Informatika, Universitas Airlangga
+- **Based in** — Indonesia
+- **Focus** — Software engineering, web & mobile development, machine learning, explainable AI, UI/UX
+- **Currently** — Finishing my thesis on explainable hypertension risk prediction
+- **Open to** — Internship and junior developer opportunities in IT
+
+<br clear="right"/>
 
 <details>
-<summary>🇮🇩 Read my introduction in Bahasa Indonesia</summary>
+<summary><b>Bahasa Indonesia</b></summary>
 
-Saya Indah Tasya Kurina, mahasiswa D4 Teknik Informatika Universitas Airlangga.
+<br/>
 
-Saya memiliki ketertarikan pada pengembangan perangkat lunak, machine learning, dan desain UI/UX. Saya senang mengeksplorasi teknologi, membangun aplikasi, serta mencari solusi digital untuk berbagai permasalahan nyata.
+Saya mahasiswa D4 Teknik Informatika Universitas Airlangga dan berdomisili di Indonesia. Saya terbiasa mengerjakan perangkat lunak dari lapisan data hingga antarmuka — layanan Laravel, skema basis data relasional, aplikasi Flutter, serta desain antarmuka yang menyertainya.
 
-Saat ini saya sedang mengembangkan penelitian tugas akhir mengenai analisis dan prediksi risiko hipertensi berbasis web menggunakan feature selection, KNN, dan Explainable Machine Learning.
+Saat ini fokus utama saya adalah skripsi: **sistem prediksi risiko hipertensi** yang memakai *wrapper-based feature selection* (Sequential Forward Selection) untuk memilih fitur, K-Nearest Neighbors untuk klasifikasi risiko, dan **SHAP** untuk menjelaskan alasan di balik prediksi model. Di luar itu, saya mengerjakan proyek web dan mobile, merancang konsep UI di Figma, dan terus menambah proyek sampingan yang menyelesaikan masalah kecil secara spesifik.
+
+Minat utama saya mencakup software engineering, web dan mobile development, machine learning, explainable AI, data science, serta UI/UX design. Saya sedang membuka kesempatan magang dan posisi junior di bidang IT.
 
 </details>
 
----
+## Tech Stack & Technology Constellation
 
-<div align="center">
+The tools I reach for most, grouped by where they sit in a project. No invented proficiency levels — just the stack I actually work with.
 
-`✦ 02: Technology Constellation ✦`
+**Languages**<br/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" />
 
-*Tools and technologies in my development journey.*
+**Web & App Frameworks**<br/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 
-</div>
+**Data & Backend**<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 
-### Programming Languages
+**Workflow & Design**<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=php,python,dart,js,html,css&theme=dark" />
-</p>
-
-### Frameworks & Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=laravel,flutter,bootstrap&theme=dark" />
-</p>
-
-### Database & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,git,github,vscode,postman&theme=dark" />
-</p>
-
-### Design
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma,canva&theme=dark" />
-</p>
-
----
-
-<div align="center">
-
-`✦ 03: Mission Archives ✦`
-
-*Selected projects from my journey through technology.*
-
-</div>
+## Featured Projects / Mission Archives
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Hypertension Risk Prediction
-
-`Machine Learning` `KNN` `SHAP`
-
-A web-based hypertension risk analysis and prediction system.
-
-- Wrapper-Based Feature Selection
-- Sequential Forward Selection
-- K-Nearest Neighbors
-- Explainable AI with SHAP
-
-**Status:** Undergraduate thesis in development.
-
-</td>
-<td width="50%" valign="top">
-
-### 🪐 ChipIn
-
-`Flutter` `Dart` `OCR`
-
-A mobile application for simplifying bill splitting.
-
-- Receipt scanning with OCR
-- Automatic tax and service calculations
-- Bill splitting
-- PDF & Excel export
-- Authentication and Google Sign-In
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌍 GrowFarm
-
-`Laravel` `PHP` `MySQL`
-
-An agricultural information platform.
-
-- Cultivation guides
-- Community features
-- Agricultural service recommendations
-
-</td>
-<td width="50%" valign="top">
-
-### 🛰️ ClassCheck
-
-`Software Engineering`
-
-A student attendance management system developed as an academic team project.
-
-- Project Charter
-- Work Breakdown Structure
-- Software Requirements Specification
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌌 Room Management System
-
-`Laravel` `MySQL` `Docker`
-
-A room management application developed in a practical development environment.
-
-- Room management
-- Role-based permissions
-- Laravel backend
-- Docker development environment
-
-</td>
-<td width="50%" valign="top">
-
-### ✨ More to Explore
-
-More projects and experiments will be added as I continue learning and building.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Hypertension Risk Prediction System</h3>
+      <p><sub>Machine learning · Thesis research</sub></p>
+      <p>Predicts hypertension risk from clinical data and explains every prediction. Wrapper-based feature selection narrows the input set before KNN classifies risk, and SHAP values translate the model's behavior into readable, per-patient explanations.</p>
+      <p><b>Stack</b><br/>
+      <code>Python</code> <code>scikit-learn</code> <code>Pandas</code> <code>SHAP</code></p>
+      <p><b>Highlights</b><br/>
+      Sequential Forward Selection for feature reduction · KNN classification · SHAP-based explanations · experimental evaluation for the thesis</p>
+      <p><img src="https://img.shields.io/badge/STATUS-RESEARCH-A78BFA?style=flat-square&labelColor=0B1026" alt="Research" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>ChipIn</h3>
+      <p><sub>Mobile app · Bill splitting</sub></p>
+      <p>A bill-splitting app for group meals. It scans the receipt with OCR, assigns items to the right people, adds tax and service charge correctly, and exports the final split as PDF or Excel.</p>
+      <p><b>Stack</b><br/>
+      <code>Flutter</code> <code>Dart</code> <code>OCR</code> <code>PDF/Excel export</code></p>
+      <p><b>Highlights</b><br/>
+      Receipt text extraction · per-item participant assignment · tax and service charge calculation · shareable PDF/Excel summaries</p>
+      <p><img src="https://img.shields.io/badge/STATUS-PERSONAL_PROJECT-7DD3FC?style=flat-square&labelColor=0B1026" alt="Personal project" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>GrowFarm</h3>
+      <p><sub>Web platform · Agriculture information</sub></p>
+      <p>An agriculture information platform built with Laravel. It organizes farming guides and crop information, with an admin workflow so the content stays structured and current instead of scattered across documents.</p>
+      <p><b>Stack</b><br/>
+      <code>Laravel</code> <code>PHP</code> <code>MySQL</code> <code>Bootstrap</code></p>
+      <p><b>Highlights</b><br/>
+      Structured farming content · admin content management · responsive reading experience</p>
+      <p><img src="https://img.shields.io/badge/STATUS-PERSONAL_PROJECT-7DD3FC?style=flat-square&labelColor=0B1026" alt="Personal project" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>ClassCheck</h3>
+      <p><sub>Web system · Attendance management</sub></p>
+      <p>An attendance management system for university classes — session records, student presence, and recaps that are easier to audit than a paper sign-in sheet.</p>
+      <p><b>Focus</b><br/>
+      Attendance sessions · student presence tracking · class-level reporting</p>
+      <p><b>Highlights</b><br/>
+      Replaces manual sign-in · clear per-class attendance records · straightforward recap for lecturers</p>
+      <p><img src="https://img.shields.io/badge/STATUS-ACADEMIC_PROJECT-A78BFA?style=flat-square&labelColor=0B1026" alt="Academic project" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Room Management System</h3>
+      <p><sub>Web system · Room booking</sub></p>
+      <p>Room booking and management built with Laravel and MySQL, containerized with Docker so the whole stack can be brought up consistently on any machine.</p>
+      <p><b>Stack</b><br/>
+      <code>Laravel</code> <code>MySQL</code> <code>Docker</code></p>
+      <p><b>Highlights</b><br/>
+      Room scheduling and records · containerized development environment · consistent setup across machines</p>
+      <p><img src="https://img.shields.io/badge/STATUS-ACADEMIC_PROJECT-A78BFA?style=flat-square&labelColor=0B1026" alt="Academic project" /></p>
+      <p><sub>Repository available on request.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>More on GitHub</h3>
+      <p><sub>Experiments · coursework · works in progress</sub></p>
+      <p>Smaller builds, class assignments, and whatever I'm currently breaking live in my repositories. Some project sources are private while the work is still in progress.</p>
+      <p><a href="https://github.com/kuyynn?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_REPOSITORIES-kuyynn-7C3AED?style=for-the-badge&logo=github&logoColor=E9E6FF&labelColor=0B1026" alt="Browse repositories" /></a></p>
+    </td>
+  </tr>
 </table>
 
----
+## GitHub Telemetry & Statistics
+
+Live data pulled from my GitHub account — nothing hardcoded.
 
 <div align="center">
 
-`✦ 04: GitHub Telemetry ✦`
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuyynn&theme=tokyonight" alt="GitHub stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kuyynn&theme=tokyonight" alt="Languages by repository" />
 
-*Live statistics from my coding universe.*
+<br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=kuyynn&hide_border=true&background=0B1026&ring=7C3AED&fire=A78BFA&currStreakLabel=7DD3FC&sideLabels=CBD5E1&currStreakNum=E9E6FF&sideNums=E9E6FF&dates=64748B" alt="Contribution streak" />
+
+<br/>
+
+<img width="100%" src="https://ghchart.rshah.org/7C3AED/kuyynn" alt="GitHub contribution graph" />
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/kuyynn/kuyynn/output/github-snake.svg" alt="Contribution snake animation" />
+
+<sub>Live cards and graphs, plus a snake rebuilt every 12 hours by GitHub Actions.</sub>
 
 </div>
+
+## Current Orbit / Learning Journey
+
+- **Software engineering** — sharpening architecture and code quality across Laravel and Flutter projects, with Docker in the mix.
+- **Machine learning & explainable AI** — finishing the hypertension model, studying feature selection strategies, and reading SHAP outputs critically instead of taking them at face value.
+- **Mobile development** — Flutter for cross-platform apps, from OCR-driven workflows to fast, simple interfaces.
+- **UI/UX design** — turning Figma explorations into interfaces that stay readable when real data arrives.
+- **Thesis** — writing up methodology, experiments, and evaluation for the hypertension risk prediction system.
+- **Next stop** — an internship or junior role where I can contribute to production software and learn from a real engineering team.
+
+## Establish Connection / Let's Connect
+
+Open to internship and junior developer opportunities, project collaborations, or a conversation about machine learning, Laravel, or interface design. These go straight to my profiles.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=kuyynn&show_icons=true&hide_border=true&bg_color=080D1C&title_color=C4B5FD&text_color=E0DDF0&icon_color=9D8AEF&rank_icon=github&include_all_commits=true" />
+<a href="https://github.com/kuyynn"><img src="https://img.shields.io/badge/GitHub-kuyynn-181717?style=for-the-badge&logo=github&logoColor=E9E6FF&labelColor=0B1026" alt="GitHub profile" /></a>
+<a href="https://www.linkedin.com/in/indahtasyakurina/"><img src="https://img.shields.io/badge/LinkedIn-indahtasyakurina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1026" alt="LinkedIn profile" /></a>
+<a href="https://www.instagram.com/kuyynn/"><img src="https://img.shields.io/badge/Instagram-kuyynn-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0B1026" alt="Instagram profile" /></a>
 
-<br/>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuyynn&layout=compact&hide_border=true&bg_color=080D1C&title_color=C4B5FD&text_color=E0DDF0&langs_count=8" />
-
-<br/>
-
-<img width="100%" src="https://streak-stats.demolab.com?user=kuyynn&hide_border=true&background=080D1C&ring=9D8AEF&fire=E6A8FF&currStreakLabel=C4B5FD&sideLabels=E0DDF0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9290A8" />
-
-</div>
-
----
-
-<div align="center">
-
-`✦ 05: Current Orbit ✦`
+<!--
+  Email CTA — uncomment once the address is ready:
+  <a href="mailto:your.address@email.com"><img src="https://img.shields.io/badge/Email-send_a_message-7C3AED?style=for-the-badge&logo=maildotru&logoColor=E9E6FF&labelColor=0B1026" alt="Email" /></a>
+-->
 
 </div>
 
-| Destination | Exploration |
-|---|---|
-| Software Engineering | Application development |
-| Web Development | Laravel |
-| Machine Learning | Classification & feature selection |
-| Explainable AI | Model interpretation |
-| UI/UX Design | Interface exploration |
-
-**Upcoming missions**
-
-- Complete my undergraduate thesis.
-- Build more practical software projects.
-- Strengthen my development skills.
-- Gain professional experience in the IT industry.
-
----
-
-<div align="center">
-
-`✦ 06: Establish Connection ✦`
-
-### Let's connect across the universe! 🌌
-
-Whether it's collaboration, technology, or new opportunities, feel free to reach out.
-
-<br/>
-
-<a href="https://github.com/kuyynn">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="38" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/indahtasyakurina/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="38" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/kuyynn/">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="38" />
-</a>
-
-<br/><br/>
-
-**GitHub** · [@kuyynn](https://github.com/kuyynn)
-
-**LinkedIn** · [Indah Tasya Kurina](https://www.linkedin.com/in/indahtasyakurina/)
-
-**Instagram** · [@kuyynn](https://www.instagram.com/kuyynn/)
-
-<br/>
-
-*Thanks for visiting my little corner of the universe.*
-
-**Keep exploring. Keep creating. Keep growing.** ✦
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:101B3A,50:43377A,100:050816&section=footer" />
-
-</div>
+<img src="assets/starfield.svg" width="100%" alt="" />

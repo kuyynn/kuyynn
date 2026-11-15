@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-label="Animated cosmic starfield with a ringed planet">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.45" stop-color="#0B1026"/>
+      <stop offset="1" stop-color="#171449"/>
+    </linearGradient>
+    <radialGradient id="planet" cx="0.35" cy="0.3" r="0.85">
+      <stop offset="0" stop-color="#C4B5FD"/>
+      <stop offset="0.55" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#312E81"/>
+    </radialGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .star { animation: twinkle 4.5s ease-in-out infinite; }
+      .star.slow { animation-duration: 7.5s; }
+      .star.fast { animation-duration: 2.8s; }
+      .shoot { animation: shoot 11s linear infinite; }
+      @keyframes twinkle {
+        0%, 100% { opacity: 0.15; }
+        50% { opacity: 1; }
+      }
+      @keyframes shoot {
+        0% { transform: translate(0, 0); opacity: 0; }
+        4% { opacity: 0.9; }
+        9% { opacity: 0; }
+        100% { transform: translate(140px, 34px); opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="160" rx="14" fill="url(#sky)"/>
+
+  <circle cx="1040" cy="108" r="96" fill="url(#halo)"/>
+  <ellipse cx="1040" cy="108" rx="132" ry="40" fill="none" stroke="#7DD3FC" stroke-opacity="0.22" stroke-dasharray="3 9" transform="rotate(-14 1040 108)"/>
+  <circle cx="1040" cy="104" r="40" fill="url(#planet)"/>
+  <ellipse cx="1040" cy="104" rx="62" ry="15" fill="none" stroke="#C4B5FD" stroke-opacity="0.55" stroke-width="2" transform="rotate(-18 1040 104)"/>
+  <circle cx="1024" cy="88" r="6" fill="#E9E6FF" opacity="0.35"/>
+  <circle cx="1054" cy="116" r="9" fill="#0B1026" opacity="0.25"/>
+
+  <ellipse cx="250" cy="92" rx="210" ry="48" fill="none" stroke="#A78BFA" stroke-opacity="0.16" stroke-dasharray="2 10"/>
+  <circle cx="440" cy="76" r="3" fill="#7DD3FC" opacity="0.8"/>
+
+  <g class="shoot">
+    <line x1="720" y1="34" x2="784" y2="17" stroke="#E9E6FF" stroke-opacity="0.7" stroke-width="1.6" stroke-linecap="round"/>
+    <circle cx="786" cy="16" r="2.4" fill="#E9E6FF"/>
+  </g>
+
+  <g fill="#E9E6FF">
+    <circle class="star" cx="60" cy="34" r="1.6"/>
+    <circle class="star slow" cx="112" cy="120" r="1.2"/>
+    <circle class="star fast" cx="188" cy="52" r="1.8"/>
+    <circle class="star" cx="232" cy="132" r="1.4"/>
+    <circle class="star slow" cx="300" cy="24" r="1.2"/>
+    <circle class="star" cx="352" cy="104" r="1.7"/>
+    <circle class="star fast" cx="410" cy="142" r="1.3"/>
+    <circle class="star" cx="470" cy="40" r="1.5"/>
+    <circle class="star slow" cx="520" cy="118" r="1.1"/>
+    <circle class="star" cx="576" cy="66" r="1.9"/>
+    <circle class="star fast" cx="632" cy="30" r="1.3"/>
+    <circle class="star" cx="684" cy="126" r="1.6"/>
+    <circle class="star slow" cx="736" cy="88" r="1.2"/>
+    <circle class="star" cx="790" cy="50" r="1.4"/>
+    <circle class="star fast" cx="842" cy="132" r="1.7"/>
+    <circle class="star" cx="900" cy="26" r="1.3"/>
+    <circle class="star slow" cx="948" cy="70" r="1.5"/>
+    <circle class="star" cx="1112" cy="42" r="1.8"/>
+    <circle class="star fast" cx="1156" cy="118" r="1.3"/>
+    <circle class="star" cx="1088" cy="146" r="1.2"/>
+    <circle class="star slow" cx="660" cy="146" r="1.1"/>
+    <circle class="star fast" cx="270" cy="86" r="1.2"/>
+    <circle class="star" cx="30" cy="86" r="1.1"/>
+  </g>
+
+  <g fill="#A78BFA">
+    <circle class="star slow" cx="148" cy="22" r="2.1"/>
+    <circle class="star" cx="486" cy="132" r="2"/>
+    <circle class="star fast" cx="700" cy="14" r="1.9"/>
+    <circle class="star slow" cx="966" cy="140" r="2.2"/>
+    <circle class="star" cx="1180" cy="70" r="1.8"/>
+  </g>
+
+  <g fill="#7DD3FC">
+    <circle class="star fast" cx="96" cy="74" r="1.9"/>
+    <circle class="star" cx="396" cy="16" r="1.7"/>
+    <circle class="star slow" cx="548" cy="142" r="1.9"/>
+    <circle class="star" cx="860" cy="96" r="1.8"/>
+    <circle class="star fast" cx="1010" cy="26" r="1.6"/>
+  </g>
+</svg>

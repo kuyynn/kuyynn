@@ -1,0 +1,31 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate cosmic snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: kuyynn
+          outputs: |
+            dist/github-snake.svg?color_snake=#A78BFA&color_dots=#0B1026,#1E1B4B,#4C1D95,#7C3AED,#A78BFA
+
+      - name: Publish snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
